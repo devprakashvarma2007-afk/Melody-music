@@ -2,7 +2,8 @@
 
 <img src="fastlane/metadata/android/en-US/images/icon.png" alt="Melody app icon" width="180" />
 
-# Melody [![App Website](https://img.shields.io/badge/Melody-Official%20Website-1f6feb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://melodymuz.vercel.app/)
+# Melody 
+[![App Website](https://img.shields.io/badge/Melody-Official%20Website-1f6feb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://melodymuz.vercel.app/)
 
 ### A clean, beautiful YouTube Music client for Android
 
