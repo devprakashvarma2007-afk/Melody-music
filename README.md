@@ -16,7 +16,7 @@ Stream your favorite music, watch videos, sing along with synced lyrics, and org
 
 <br/>
 
-[**🌐 Website**](https://melodymuz.vercel.app/) · [**⬇ Download**](#-download) · [**✨ Features**](#-features) · [**📷 Screenshots**](#-screenshots) · [**🙋 About the Developer**](#-about-the-developer)
+[** Website**](https://melodymuz.vercel.app/) · [** Download**](#-download) · [** Features**](#-features) · [** Screenshots**](#-screenshots) · [** About the Developer**](#-about-the-developer)
 
 </div>
 
@@ -27,7 +27,7 @@ Stream your favorite music, watch videos, sing along with synced lyrics, and org
 
 ---
 
-## 🎵 About Melody
+##  About Melody
 
 **Melody** is a free and open-source music player for Android that brings YouTube Music's massive catalog into a fast, lightweight, and ad-free interface. It's built for people who want a simple, good-looking app that just plays music — without clutter, without distractions, and without compromises.
 
@@ -35,7 +35,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 <div align="center">
 
@@ -50,13 +50,13 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 
 ---
 
-## ✨ Features
+##  Features
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-#### ▶ Playback
+####  Playback
 - Stream any song or video from YouTube Music
 - Background playback
 - Download & cache for offline use
@@ -66,7 +66,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 </td>
     <td width="50%" valign="top">
 
-#### 🎧 Audio
+####  Audio
 - Audio normalization
 - Tempo & pitch control
 - Equalizer
@@ -77,7 +77,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
   <tr>
     <td width="50%" valign="top">
 
-#### 🎤 Lyrics & Discovery
+####  Lyrics & Discovery
 - Live synced lyrics
 - AI-powered lyrics translation
 - Personalized quick picks
@@ -86,7 +86,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 </td>
     <td width="50%" valign="top">
 
-#### 🗂 Library & Account
+####  Library & Account
 - Full library management
 - Local playlists
 - Import playlists
@@ -99,7 +99,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
   <tr>
     <td width="50%" valign="top">
 
-#### 👥 Social
+####  Social
 - Listen together with friends in real time
 - Last.fm integration for scrobbling
 - Discord Rich Presence
@@ -107,7 +107,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 </td>
     <td width="50%" valign="top">
 
-#### 🎨 Interface
+####  Interface
 - Home screen widget
 - Light / Dark / Black / Dynamic themes
 - Dynamic color + preset color palettes
@@ -119,7 +119,7 @@ Whether you're streaming the latest hits, downloading tracks for offline listeni
 
 ---
 
-## ⬇ Download
+##  Download
 
 Melody is available from several sources — pick whichever works best for you. All builds are free, and updates are released regularly.
 
@@ -171,12 +171,12 @@ Melody is available from several sources — pick whichever works best for you. 
   </tr>
 </table>
 
-> [!TIP]
+> [TIP]
 > **New to sideloading?** Apps installed from outside the Play Store may ask you to allow "installing from unknown sources" in your phone's settings. This is normal — Melody is safe to install. Using **Obtainium** or **IzzyOnDroid** is the easiest way to stay up to date automatically.
 
 ---
 
-## 🛠 Built With
+##  Built With
 
 - **Kotlin** — modern, concise, and safe by default
 - **Jetpack Compose** — declarative UI toolkit
@@ -188,7 +188,7 @@ Melody is available from several sources — pick whichever works best for you. 
 
 ---
 
-## 🙋 About the Developer
+##  About the Developer
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Melody is one of those projects — built to learn, to create something useful, 
 
 ---
 
-## 💜 Credits
+##  Credits
 
 Melody is built on the shoulders of incredible open-source work. This project is a fork of [**Metrolist**](https://github.com/MetrolistGroup/Metrolist), which itself stands on the work of many others — including [**InnerTune**](https://github.com/z-huang/InnerTune) and [**OuterTune**](https://github.com/DD3Boh/OuterTune). Huge thanks to every developer, translator, and contributor who made this possible. Melody would not exist without them.
 
@@ -223,6 +223,6 @@ Melody is provided for educational and personal use only. The developer does not
 
 **Made with ❤️ by [Dev Varma](https://aboutdevvarma.vercel.app/)**
 
-**🎵 Melody — music, beautifully simple.**
+** Melody — music, beautifully simple.**
 
 </div>
