@@ -16,7 +16,7 @@ Stream your favorite music, watch videos, sing along with synced lyrics, and org
 
 <br/>
 
-[** Website**](https://melodymuz.vercel.app/) · [** Download**](#-download) · [** Features**](#-features) · [** Screenshots**](#-screenshots) · [** About the Developer**](#-about-the-developer)
+[**Website**](https://melodymuz.vercel.app/) · [**Download**](#-download) · [**Features**](#-features) · [**Screenshots**](#-screenshots) · [**About the Developer**](#-about-the-developer)
 
 </div>
 
@@ -223,6 +223,6 @@ Melody is provided for educational and personal use only. The developer does not
 
 **Made with ❤️ by [Dev Varma](https://aboutdevvarma.vercel.app/)**
 
-** Melody — music, beautifully simple.**
+**Melody — music, beautifully simple.**
 
 </div>
