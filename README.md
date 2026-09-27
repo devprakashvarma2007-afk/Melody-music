@@ -29,7 +29,7 @@ Stream your favorite music, watch videos, sing along with synced lyrics, and org
 
 ##  About Melody
 
-**Melody** is a free and open-source music player for Android that brings YouTube Music's massive catalog into a fast, lightweight, and ad-free interface. It's built for people who want a simple, good-looking app that just plays music — without clutter, without distractions, and without compromises.
+**Melody** is a free music player for Android that brings YouTube Music's massive catalog into a fast, lightweight, and ad-free interface. It's built for people who want a simple, good-looking app that just plays music — without clutter, without distractions, and without compromises.
 
 Whether you're streaming the latest hits, downloading tracks for offline listening, or syncing lyrics to sing along, Melody keeps everything clean, quick, and easy to use.
 
